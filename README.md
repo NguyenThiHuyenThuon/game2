@@ -1,4 +1,4 @@
-# Nguồn tham khảo
+# Nguồn tham khảo code rắn và giao diện
 https://youtu.be/3kw1-dOikMA
 https://youtu.be/Wc5X0l3hsQ8
 # Nguồn ảnh (tham khảo, tự vẽ)
